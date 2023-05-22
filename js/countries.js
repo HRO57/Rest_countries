@@ -29,7 +29,7 @@ const getCountriesHTML = ({ name, flags, area, region }) => {
         <div class="country">
             <h2>${name.common}</h2>
             <p>Area:${area}</p>
-            <p>Continet:${region}</p>
+            <p>Continent:${region}</p>
             <img src="${flags.png}">
         </div>
     `
