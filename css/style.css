@@ -1,12 +1,12 @@
 .country img {
-    width: 200px;
+    width: 150px;
 }
 
 .country {
     border: 3px solid black;
-    background-color: antiquewhite;
+    background-color: rgb(215, 250, 232);
     border-radius: 20px;
-    padding: auto;
+    padding:2rem; 
 }
 
 .countries {
